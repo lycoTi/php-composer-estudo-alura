@@ -1,0 +1,16 @@
+{
+    "name": "lycoti/buscador-curso",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "license": "xampp",
+    "authors": [
+        {
+            "name": "Tiago",
+            "email": "tiagosantos__@live.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler": "^6.0.6"
+    }
+}
