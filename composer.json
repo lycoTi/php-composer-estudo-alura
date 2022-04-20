@@ -2,7 +2,7 @@
     "name": "lycoti/buscador-curso",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
-    "license": "xampp",
+    "license": "",
     "authors": [
         {
             "name": "Tiago",

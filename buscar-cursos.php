@@ -7,13 +7,10 @@ use GuzzleHttp\Client;
 use Alura\BuscadorDeCursos\Buscador;
 use Symfony\Component\DomCrawler\Crawler;
 
-$client = new Client();
-$resposta = $client->request(
-    "GET",
-    "https://www.alura.com.br/cursos-online-programacao/php"
-);
-
-$client = new Client(["base_uri" => "https://www.alura.com.br/"]);
+$client = new Client([
+    "base_uri" => "https://www.alura.com.br/",
+    "verify" => false,
+]);
 $crawler = new Crawler();
 
 $buscador = new Buscador($client, $crawler);
