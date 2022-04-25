@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ca9c8a36518a9f89dd5dd47ea689be6e843ee65f',
+        'reference' => '24344c5f06a8b273326758dffa03cd99a58d1a71',
         'name' => 'lycoti/buscador-curso',
         'dev' => true,
     ),
@@ -88,7 +88,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ca9c8a36518a9f89dd5dd47ea689be6e843ee65f',
+            'reference' => '24344c5f06a8b273326758dffa03cd99a58d1a71',
             'dev_requirement' => false,
         ),
         'microsoft/tolerant-php-parser' => array(
