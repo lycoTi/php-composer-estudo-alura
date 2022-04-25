@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":140:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:81:"Alura\BuscadorDeCursos\Tests\TestBuscadorDeCursos::testBuscadorDeveRetornarCursos";d:0.02;}}}
