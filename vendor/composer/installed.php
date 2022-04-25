@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '22d1baf5138701c5904e9df2d3385cd9f075ddd1',
+        'reference' => 'b222fb65b73c2624c406c365bb563da2eeaffc72',
         'name' => 'lycoti/buscador-curso',
         'dev' => true,
     ),
@@ -43,7 +43,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '22d1baf5138701c5904e9df2d3385cd9f075ddd1',
+            'reference' => 'b222fb65b73c2624c406c365bb563da2eeaffc72',
             'dev_requirement' => false,
         ),
         'psr/http-client' => array(

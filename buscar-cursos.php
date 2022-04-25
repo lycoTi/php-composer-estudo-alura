@@ -1,7 +1,6 @@
 <?php
 
 require "vendor/autoload.php";
-require "src/Buscador.php";
 
 use GuzzleHttp\Client;
 use Alura\BuscadorDeCursos\Buscador;
